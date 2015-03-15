@@ -1,13 +1,43 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8" />
-        <title>{% block title %}Welcome!{% endblock %}</title>
-        {% block stylesheets %}{% endblock %}
-        <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
-    </head>
-    <body>
-        {% block body %}{% endblock %}
-        {% block javascripts %}{% endblock %}
-    </body>
+<head>
+    <meta charset="UTF-8" />
+    <title>{% block title %}Title page{% endblock %}</title>
+    {% block stylesheets %}{% endblock %}
+    <link rel="icon" type="image/x-icon" href="{{ asset('favicon.ico') }}" />
+</head>
+<body>
+{% block header %}
+    <ul>
+        <li><a href="{{ path('homepage') }}">Home</a></li>
+        <li><a href="{{ path('imprint') }}">Mentions légales</a></li>
+        {% if is_granted('IS_AUTHENTICATED_FULLY') %}
+            <li><a href="{{ path('fos_user_security_logout') }}">Déconnexion</a></li>
+            <li>Bonjour, {{ app.user }}</li>
+        {% else %}
+            <li><a href="{{ path('fos_user_registration_register') }}">Inscription</a></li>
+            <li><a href="{{ path('fos_user_security_login') }}">Connexion</a></li>
+        {% endif %}
+    </ul>
+{% endblock %}
+{% block flash %}
+
+    {% for flashMessage in app.session.flashbag.get('notice') %}
+        <div class="flash-notice">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
+
+    {% for flashMessage in app.session.flashbag.get('error') %}
+        <div class="flash-error">
+            {{ flashMessage }}
+        </div>
+    {% endfor %}
+
+{% endblock %}
+{% block rubric %}{% endblock %}
+{% block body %}{% endblock %}
+{% block footer %}{% endblock footer %}
+{% block javascripts %}{% endblock %}
+</body>
 </html>

@@ -2,6 +2,7 @@ imports:
     - { resource: parameters.yml }
     - { resource: security.yml }
     - { resource: services.yml }
+    - { resource: @BananaUserBundle/Resources/Config/config.yml }
 
 framework:
     #esi:             ~
@@ -74,16 +75,7 @@ swiftmailer:
     password:  "%mailer_password%"
     spool:     { type: memory }
 
-# FOS User Bundle
-fos_user:
-    db_driver: orm
-    firewall_name: main
-    user_class: Banana\UserBundle\Entity\User
-    group:
-        group_class: Banana\UserBundle\Entity\Group
-    from_email:
-        address: pa@foulquier.info
-        sender_name: paf
+
 
 
 # SONATA User Bundle

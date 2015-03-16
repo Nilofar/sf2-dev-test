@@ -1,0 +1,31 @@
+# FOS User Bundle
+fos_user:
+    db_driver: orm
+    firewall_name: main
+    user_class: Banana\UserBundle\Entity\User
+    group:
+        group_class: Banana\UserBundle\Entity\Group
+    from_email:
+        address: pa@foulquier.info
+        sender_name: paf
+    service:
+        mailer: fos_user.mailer.twig_swift
+    registration:
+        form:
+            #type: banana_sonata_user_register
+            validation_groups: [Register, Default, Registration]
+        confirmation:
+            enabled: true
+            template: BananaUserBundle:Registration:email.html.twig
+    profile:
+        form:
+            type: blogtest_sonata_user_profile
+            #validation_groups: [Profile, Default]
+    resetting:
+        email:
+            template: BananaUserBundle:Resetting:email.html.twig
+    group:
+        group_class: Banana\UserBundle\Entity\Group
+    from_email:
+        address: pa@foulquier.info
+        sender_name: paf

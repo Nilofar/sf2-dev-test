@@ -36,6 +36,6 @@ class RegisterType extends RegistrationFormType
 
     public function getName()
     {
-        return 'blogtest_sonata_user_register';
+        return 'banana_sonata_user_register';
     }
 }

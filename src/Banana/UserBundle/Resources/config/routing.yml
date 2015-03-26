@@ -1,7 +1,7 @@
 # SECURITY
 fos_user_security_login:
     pattern: /connexion
-    defaults: { _controller: FOSUserBundle:Security:login }
+    defaults: { _controller:BananaUserBundle:Security:login }
     requirements:
         _method: GET
 
@@ -20,7 +20,7 @@ fos_user_security_logout:
 # REGISTRATION
 fos_user_registration_register:
     pattern: /inscription
-    defaults: { _controller: FOSUserBundle:Registration:register }
+    defaults: { _controller: BananaUserBundle:Registration:register }
     requirements:
         _method: GET|POST
 

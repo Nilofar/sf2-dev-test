@@ -2,32 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd2ca993-6ef3-415d-802c-b352ba1af769" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sf2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Form/Handler/ProfileFormHandler.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/ProfileType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/checkEmail.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/confirmed.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Profile/edit.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/email.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/register.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Profile/show.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.phtml.twig" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/BananaUserBundle.php" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/BananaUserBundle.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/index.html.twig" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/index.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing.yml" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.html.twig" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml" afterPath="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/services.yml" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sf2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,45 +32,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="services.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/services.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfileFormHandler.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Handler/ProfileFormHandler.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="26" selection-start="238" selection-end="238" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="456">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checkEmail.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/checkEmail.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="209">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="confirmed.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/confirmed.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="285">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="email.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/email.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="482" selection-end="482" vertical-scroll-proportion="-9.88" vertical-offset="0" max-vertical-offset="399">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
               <folding />
             </state>
           </provider>
@@ -98,12 +43,26 @@
       <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="14" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
-              <folding>
-                <marker date="1426467281000" expanded="true" signature="18:930" placeholder="fos_user:" />
-                <marker date="1426467281000" expanded="true" signature="316:571" placeholder="registration:" />
-                <marker date="1426467281000" expanded="true" signature="338:455" placeholder="form:" />
-              </folding>
+            <state line="16" column="21" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="684">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProfileType.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/ProfileType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="22" selection-start="2359" selection-end="2359" vertical-scroll-proportion="0.0" vertical-offset="1406" max-vertical-offset="1558">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegisterType.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="1" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="874">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,49 +70,43 @@
       <file leaf-file-name="login.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1425">
-              <folding>
-                <marker date="1426467005000" expanded="true" signature="104:3482" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="130:3471" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="165:3456" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="212:3436" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="261:405" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="451:3413" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="749:3386" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="952:1518" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="1007:1152" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="1217:1483" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="1271:1477" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="1587:2059" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="1642:1787" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="1852:2024" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="1910:2018" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="2113:2712" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="2184:2677" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="2257:2638" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="2323:2595" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="2766:3354" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="2837:3319" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="2947:3056" placeholder="..." />
-                <marker date="1426467005000" expanded="true" signature="3167:3280" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html.twig" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+            <state line="2" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="-0.0" vertical-offset="38" max-vertical-offset="1425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/index.html.twig">
+      <file leaf-file-name="ProfileFormHandler.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Handler/ProfileFormHandler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="190">
+            <state line="18" column="0" selection-start="421" selection-end="421" vertical-scroll-proportion="-13.68" vertical-offset="0" max-vertical-offset="456">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="52" selection-start="2938" selection-end="2938" vertical-scroll-proportion="0.6051437" vertical-offset="968" max-vertical-offset="1786">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="40" selection-start="73" selection-end="73" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="133">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppBundle.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
               <folding />
             </state>
           </provider>
@@ -162,17 +115,8 @@
       <file leaf-file-name="register.html.twig" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/register.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="665">
-              <folding>
-                <marker date="1426466937000" expanded="true" signature="91:899" placeholder="..." />
-                <marker date="1426466937000" expanded="true" signature="113:879" placeholder="..." />
-                <marker date="1426466937000" expanded="true" signature="158:868" placeholder="..." />
-                <marker date="1426466937000" expanded="true" signature="202:853" placeholder="..." />
-                <marker date="1426466937000" expanded="true" signature="247:331" placeholder="..." />
-                <marker date="1426466937000" expanded="true" signature="373:833" placeholder="..." />
-                <marker date="1426466937000" expanded="true" signature="533:809" placeholder="..." />
-                <marker date="1426466937000" expanded="true" signature="611:781" placeholder="..." />
-              </folding>
+            <state line="6" column="31" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="665">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -205,31 +149,30 @@
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.phtml.twig" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/layout.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/BananaUserBundle.php" />
-        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/app/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Profile/show.html.twig" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Profile/edit.html.twig" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/ProfileType.php" />
-        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Form/Handler/ProfileFormHandler.php" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/checkEmail.html.twig" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/confirmed.html.twig" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/register.html.twig" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/email.html.twig" />
-        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig" />
-        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml" />
         <option value="$PROJECT_DIR$/app/config/services.yml" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php" />
+        <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml" />
         <option value="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
     <option name="y" value="22" />
     <option name="width" value="1680" />
     <option name="height" value="1024" />
@@ -437,74 +380,6 @@
               <option name="myItemId" value="Resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Profile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sf2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sf2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Banana" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Default" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sf2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sf2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Banana" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="UserBundle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -593,6 +468,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Handler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sf2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Banana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UserBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -730,6 +631,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Resources/views" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Banana/UserBundle/Resources/views" />
       <recent name="$PROJECT_DIR$/src/Banana/UserBundle" />
@@ -761,36 +665,36 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1680" height="1024" extended-state="6" />
+    <frame x="0" y="22" width="1680" height="1024" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32976446" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19700214" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33760685" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34188035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3304721" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32967034" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -811,20 +715,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1311">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="21" selection-start="385" selection-end="385" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="950">
@@ -834,9 +724,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="209">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="209" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml">
@@ -848,46 +736,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="342">
-          <folding />
-        </state>
+        <state line="6" column="38" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="342" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228">
-          <folding />
-        </state>
+        <state line="0" column="28" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="228" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="18" selection-start="2818" selection-end="2819" vertical-scroll-proportion="0.0" vertical-offset="1919" max-vertical-offset="2242">
-          <folding />
-        </state>
+        <state line="101" column="18" selection-start="2818" selection-end="2819" vertical-scroll-proportion="0.0" vertical-offset="1919" max-vertical-offset="2242" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="30" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="380">
-          <folding>
-            <marker date="1426438397000" expanded="true" signature="-1:-1" placeholder="parameters:" />
-          </folding>
-        </state>
+        <state line="13" column="30" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1311">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="1311" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
@@ -899,9 +773,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="209">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="209" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml">
@@ -913,16 +785,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Controller/DefaultController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="342">
-          <folding />
-        </state>
+        <state line="6" column="38" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="342" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228">
-          <folding />
-        </state>
+        <state line="6" column="14" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="228" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -931,11 +799,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.lock">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="41477" />
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
@@ -950,11 +818,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Entity/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="53" selection-start="216" selection-end="216" vertical-scroll-proportion="-8.36" vertical-offset="0" max-vertical-offset="2052">
-          <folding>
-            <element signature="e#44#76#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="11" column="53" selection-start="216" selection-end="216" vertical-scroll-proportion="-8.36" vertical-offset="0" max-vertical-offset="2052" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Entity/Repository/UserRepository.php">
@@ -964,11 +828,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Entity/Group.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="16" selection-start="23" selection-end="23" vertical-scroll-proportion="-1.52" vertical-offset="0" max-vertical-offset="684">
-          <folding>
-            <element signature="e#44#76#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="2" column="16" selection-start="23" selection-end="23" vertical-scroll-proportion="-1.52" vertical-offset="0" max-vertical-offset="684" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/sonata-project/user-bundle/Admin/Entity/UserAdmin.php">
@@ -988,9 +848,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/security.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="64" selection-start="2306" selection-end="2306" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1254">
-          <folding />
-        </state>
+        <state line="60" column="64" selection-start="2306" selection-end="2306" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1254" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
@@ -1000,185 +858,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="30" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <folding>
-            <marker date="1426438397000" expanded="true" signature="-1:-1" placeholder="parameters:" />
-          </folding>
-        </state>
+        <state line="13" column="30" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="209">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="879">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="145" selection-end="145" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="342">
-          <folding />
-        </state>
+        <state line="5" column="0" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="209" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/BananaUserBundle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="241" selection-end="241" vertical-scroll-proportion="-10.64" vertical-offset="0" max-vertical-offset="418">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="33" selection-start="1606" selection-end="1606" vertical-scroll-proportion="0.0" vertical-offset="1515" max-vertical-offset="2090">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="665">
-          <folding />
-        </state>
+        <state line="14" column="5" selection-start="241" selection-end="241" vertical-scroll-proportion="-10.64" vertical-offset="0" max-vertical-offset="418" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Profile/show.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
-          <folding />
-        </state>
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Profile/edit.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="-5.32" vertical-offset="0" max-vertical-offset="247">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/ProfileType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="22" selection-start="2359" selection-end="2359" vertical-scroll-proportion="-15.92" vertical-offset="913" max-vertical-offset="1463">
-          <folding>
-            <element signature="e#130#175#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="-3.8" vertical-offset="0" max-vertical-offset="779">
-          <folding>
-            <element signature="e#130#180#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Handler/ProfileFormHandler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="26" selection-start="238" selection-end="238" vertical-scroll-proportion="-6.84" vertical-offset="0" max-vertical-offset="456">
-          <folding />
-        </state>
+        <state line="7" column="14" selection-start="276" selection-end="276" vertical-scroll-proportion="-5.32" vertical-offset="0" max-vertical-offset="247" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/confirmed.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/register.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
-          <folding>
-            <marker date="1426466937000" expanded="true" signature="91:899" placeholder="..." />
-            <marker date="1426466937000" expanded="true" signature="113:879" placeholder="..." />
-            <marker date="1426466937000" expanded="true" signature="158:868" placeholder="..." />
-            <marker date="1426466937000" expanded="true" signature="202:853" placeholder="..." />
-            <marker date="1426466937000" expanded="true" signature="247:331" placeholder="..." />
-            <marker date="1426466937000" expanded="true" signature="373:833" placeholder="..." />
-            <marker date="1426466937000" expanded="true" signature="533:809" placeholder="..." />
-            <marker date="1426466937000" expanded="true" signature="611:781" placeholder="..." />
-          </folding>
-        </state>
+        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/email.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="482" selection-end="482" vertical-scroll-proportion="-9.88" vertical-offset="0" max-vertical-offset="399">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1425">
-          <folding>
-            <marker date="1426467005000" expanded="true" signature="104:3482" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="130:3471" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="165:3456" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="212:3436" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="261:405" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="451:3413" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="749:3386" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="952:1518" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="1007:1152" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="1217:1483" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="1271:1477" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="1587:2059" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="1642:1787" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="1852:2024" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="1910:2018" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="2113:2712" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="2184:2677" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="2257:2638" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="2323:2595" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="2766:3354" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="2837:3319" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="2947:3056" placeholder="..." />
-            <marker date="1426467005000" expanded="true" signature="3167:3280" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="25" selection-start="2252" selection-end="2252" vertical-scroll-proportion="2.5443478" vertical-offset="57" max-vertical-offset="1634">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="14" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
-          <folding>
-            <marker date="1426467281000" expanded="true" signature="18:930" placeholder="fos_user:" />
-            <marker date="1426467281000" expanded="true" signature="316:571" placeholder="registration:" />
-            <marker date="1426467281000" expanded="true" signature="338:455" placeholder="form:" />
-          </folding>
-        </state>
+        <state line="13" column="22" selection-start="482" selection-end="482" vertical-scroll-proportion="-9.88" vertical-offset="0" max-vertical-offset="399" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/services.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="52" selection-start="236" selection-end="236" vertical-scroll-proportion="-5.32" vertical-offset="0" max-vertical-offset="2261">
-          <folding />
-        </state>
+        <state line="16" column="21" selection-start="575" selection-end="575" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/checkEmail.html.twig">
@@ -1190,14 +905,102 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="190">
+        <state line="1" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="190" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="245" selection-end="271" vertical-scroll-proportion="-8.36" vertical-offset="0" max-vertical-offset="342" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Registration/register.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="31" selection-start="159" selection-end="159" vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="665">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/RegisterType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="1" selection-start="964" selection-end="964" vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="874">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Type/ProfileType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="22" selection-start="2359" selection-end="2359" vertical-scroll-proportion="0.0" vertical-offset="1406" max-vertical-offset="1558">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="879" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="4" selection-start="133" selection-end="133" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="33" selection-start="1606" selection-end="1606" vertical-scroll-proportion="1.3547826" vertical-offset="285" max-vertical-offset="2090" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="21" selection-start="476" selection-end="476" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Form/Handler/ProfileFormHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="421" selection-end="421" vertical-scroll-proportion="-13.68" vertical-offset="0" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="35" selection-start="586" selection-end="586" vertical-scroll-proportion="0.4888889" vertical-offset="0" max-vertical-offset="1634">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Banana/UserBundle/Resources/views/layout.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+        <state line="1" column="40" selection-start="73" selection-end="73" vertical-scroll-proportion="-0.76" vertical-offset="0" max-vertical-offset="133">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="52" selection-start="2938" selection-end="2938" vertical-scroll-proportion="0.6051437" vertical-offset="968" max-vertical-offset="1786">
           <folding />
         </state>
       </provider>
